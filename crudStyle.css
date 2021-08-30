@@ -1,0 +1,18 @@
+
+
+*{margin: 0px;padding: 0px;}
+.heading{
+color: #fff;
+background: #EA2353;
+text-transform: uppercase;
+padding: 20px;
+font-size: 16px;
+letter-spacing: 1px;
+margin-bottom: 50px;
+}
+.btn, .form-control{
+  border-radius: 15px;
+  width:100%;
+}
+p{color:#EA2353;}
+
